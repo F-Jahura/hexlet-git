@@ -1,7 +1,2 @@
-git is awesome!
-experiment with amend
-new data
-some information need to add
-my information
-need to check
-I love hexlet!
+need to work
+git is awesome
